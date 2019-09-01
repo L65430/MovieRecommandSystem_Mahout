@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommandSystem_Mahout.iml" filepath="$PROJECT_DIR$/MovieRecommandSystem_Mahout.iml" />
+    </modules>
+  </component>
+</project>
